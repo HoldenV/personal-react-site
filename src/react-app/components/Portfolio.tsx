@@ -5,13 +5,17 @@ export default function Portfolio() {
     <div className="portfolio-container">
       <header className="hero-section">
         <div className="glass-box hero-box">
-          <img
-            src="https://avatars.githubusercontent.com/u/214561203?v=4"
-            alt="Holden Vail"
-            className="profile-image"
-          />
-          <h1 className="main-title">Holden Vail</h1>
-          <p className="subtitle">Full Stack Software Engineer</p>
+          <div className="hero-header-content">
+            <div className="hero-text">
+              <h1 className="main-title">Holden Vail</h1>
+              <p className="subtitle">Full Stack Software Engineer</p>
+            </div>
+            <img
+              src="https://avatars.githubusercontent.com/u/214561203?v=4"
+              alt="Holden Vail"
+              className="profile-image"
+            />
+          </div>
           <p className="summary-text">
             I'm a Full Stack Engineer who loves building scalable microservices
             and modern web applications. I've got experience with cloud-native
