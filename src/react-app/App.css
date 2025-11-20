@@ -283,6 +283,10 @@ li {
     gap: 1.5rem;
   }
 
+  .hero-text {
+    text-align: center;
+  }
+
   .profile-image {
     width: 120px;
     height: 120px;
@@ -317,5 +321,11 @@ li {
   .skills-grid {
     grid-template-columns: 1fr;
     gap: 1.5rem;
+  }
+
+  .summary-text {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
