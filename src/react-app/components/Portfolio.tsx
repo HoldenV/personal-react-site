@@ -79,7 +79,7 @@ export default function Portfolio() {
               <div className="skill-category">
                 <h3>Frontend</h3>
                 <ul className="skills-list">
-                  <li>React.js & Redux</li>
+                  <li>ReactJS & Redux</li>
                   <li>HTML5 / CSS3</li>
                   <li>Material UI</li>
                   <li>Flutter / Dart</li>
@@ -138,12 +138,15 @@ export default function Portfolio() {
                   production features and bug fixes.
                 </li>
                 <li>
-                  Optimized database queries and backend performance for
-                  high-traffic services.
+                  Deployed full-stack enhancements to production environments.
                 </li>
                 <li>
-                  Deployed full-stack enhancements to production environments
-                  using CI/CD pipelines.
+                  Optimized database queries and backend performance on
+                  high-traffic and high-cost queries, saving users time.
+                </li>
+                <li>
+                  Migrated testing suites from jest to vitest, speeding up our
+                  CI/CD deployments.
                 </li>
               </ul>
             </div>
@@ -154,8 +157,8 @@ export default function Portfolio() {
               <p className="date">Summer 2025</p>
               <ul>
                 <li>
-                  Architected and developed scalable microservices using C# and
-                  .NET to support high-volume internal operations.
+                  Architected and developed microservices using C# and .NET to
+                  support various internal operations.
                 </li>
                 <li>
                   Engineered a responsive, modern frontend dashboard using
@@ -163,9 +166,8 @@ export default function Portfolio() {
                   workflow efficiency.
                 </li>
                 <li>
-                  Collaborated in an Agile environment to deliver robust
-                  features, ensuring code quality through rigorous testing and
-                  CI/CD practices.
+                  Collaborated in an Agile environment to deliver new features,
+                  ensuring code quality through test writing and code reviews.
                 </li>
               </ul>
             </div>
@@ -183,13 +185,12 @@ export default function Portfolio() {
                   real-time engagement dashboards.
                 </li>
                 <li>
-                  Optimized web performance by implementing SSL, advanced
-                  caching strategies, and speculative loading for sub-second
-                  render times.
+                  Optimized web performance by ensuring features such as SSL,
+                  caching, and speculative loading for sub-second render times.
                 </li>
                 <li>
                   Automated critical business workflows using Python scripts,
-                  reducing manual data entry time by 90%.
+                  drastically reducing manual data entry time.
                 </li>
               </ul>
             </div>
@@ -200,8 +201,8 @@ export default function Portfolio() {
               <p className="date">October 2022 - Present</p>
               <ul>
                 <li>
-                  Consulted with clients to identify technical requirements and
-                  recommend tailored hardware solutions.
+                  Consulted with customers to identify technical requirements
+                  and recommend tailored hardware solutions.
                 </li>
                 <li>
                   Consistently exceeded sales targets while fostering a
@@ -221,11 +222,11 @@ export default function Portfolio() {
                 </li>
                 <li>
                   Automated device provisioning using Windows shell scripts,
-                  streamlining the deployment of 500+ workstations.
+                  streamlining the deployment of 100+ workstations.
                 </li>
                 <li>
-                  Diagnosed and resolved complex network configuration issues
-                  using Wireshark packet analysis.
+                  Diagnosed and resolved network configuration issues using
+                  Wireshark packet analysis.
                 </li>
               </ul>
             </div>
@@ -293,12 +294,12 @@ export default function Portfolio() {
               </a>
               <ul>
                 <li>
-                  Built a high-performance desktop application using Electron
-                  and React to simulate complex cellular automata.
+                  Built a multi-platform desktop application using Electron and
+                  React to simulate complex cellular automata.
                 </li>
                 <li>
                   Optimized rendering algorithms to handle large-scale grid
-                  simulations at 60+ FPS.
+                  simulations.
                 </li>
                 <li>
                   Designed a modular architecture allowing for easy
@@ -327,8 +328,8 @@ export default function Portfolio() {
                   lectures in real-time.
                 </li>
                 <li>
-                  Integrated a custom NLP model to summarize transcripts and
-                  automatically generate structured study notes.
+                  Engineered custom prompt templates and workflows to summarize
+                  transcripts and automatically generate structured study notes.
                 </li>
               </ul>
             </div>
@@ -409,7 +410,7 @@ export default function Portfolio() {
               </li>
               <li>SkillsUSA 2022 National Champion: IoT</li>
               <li>Kansas Honors Scholar and Governor’s Scholar</li>
-              <li>Spanish Club Scholarship Recipient</li>
+              <li>KU Outstanding Senior Award Nominee</li>
             </ul>
           </div>
         </section>
