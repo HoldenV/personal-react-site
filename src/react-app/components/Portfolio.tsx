@@ -17,11 +17,11 @@ export default function Portfolio() {
             />
           </div>
           <p className="summary-text">
-            I'm a Full Stack Engineer who loves building scalable microservices
-            and modern web applications. I've got experience with cloud-native
-            development using AWS and GCP, .NET ecosystems, and React-based
-            frontends. I'm dedicated to creating efficient, user-centric
-            solutions for complex technical challenges.
+            I'm an early career, full stack software engineer passionate about
+            software development, system design, and cloud computing. Whether
+            I'm implementing something new at work, or diving into a personal
+            project, it's my excitement and dedication to the magic that is
+            technology that drives me to deliver.
           </p>
           <div className="contact-links">
             <a href="mailto:holdenjvail@gmail.com">
