@@ -1,0 +1,173 @@
+{
+  "title": "Holden's Van Travels",
+  "intro": "Most of it anyway",
+  "entries": [
+    {
+      "id": "edna",
+      "location": "Edna, Kansas",
+      "coordinates": { "lat": 37.0542, "lng": -95.3597 },
+      "journal": "This is a placeholder for a future journal entry.",
+      "photos": []
+    },
+    {
+      "id": "wichita",
+      "date": "Date coming soon",
+      "location": "Wichita, Kansas",
+      "coordinates": { "lat": 37.6872, "lng": -97.3301 },
+      "journal": "This is a placeholder for a future journal entry.",
+      "photos": []
+    },
+    {
+      "id": "dodge-city",
+      "date": "Date coming soon",
+      "location": "Dodge City, Kansas",
+      "coordinates": { "lat": 37.7528, "lng": -100.0171 },
+      "journal": "This is a placeholder for a future journal entry.",
+      "photos": []
+    },
+    {
+      "id": "pueblo",
+      "date": "Date coming soon",
+      "location": "Pueblo, Colorado",
+      "coordinates": { "lat": 38.2544, "lng": -104.6091 },
+      "journal": "This is a placeholder for a future journal entry.",
+      "photos": []
+    },
+    {
+      "id": "buena-vista",
+      "date": "Date coming soon",
+      "location": "Buena Vista, Colorado",
+      "coordinates": { "lat": 38.8422, "lng": -106.1311 },
+      "journal": "This is a placeholder for a future journal entry.",
+      "photos": []
+    },
+    {
+      "id": "leadville",
+      "date": "Date coming soon",
+      "location": "Leadville, Colorado",
+      "coordinates": { "lat": 39.2508, "lng": -106.2925 },
+      "journal": "This is a placeholder for a future journal entry.",
+      "photos": []
+    },
+    {
+      "id": "frisco",
+      "date": "Date coming soon",
+      "location": "Frisco, Colorado",
+      "coordinates": { "lat": 39.5744, "lng": -106.0975 },
+      "journal": "This is a placeholder for a future journal entry.",
+      "photos": []
+    },
+    {
+      "id": "breckenridge",
+      "date": "Date coming soon",
+      "location": "Breckenridge, Colorado",
+      "coordinates": { "lat": 39.4817, "lng": -106.0384 },
+      "journal": "This is a placeholder for a future journal entry.",
+      "photos": []
+    },
+    {
+      "id": "encampment",
+      "date": "Date coming soon",
+      "location": "Encampment, Wyoming",
+      "coordinates": { "lat": 41.2075, "lng": -106.7881 },
+      "journal": "This is a placeholder for a future journal entry.",
+      "photos": []
+    },
+    {
+      "id": "medicine-bow",
+      "date": "Date coming soon",
+      "location": "Medicine Bow National Forest, Wyoming",
+      "coordinates": { "lat": 41.3236, "lng": -106.1942 },
+      "journal": "This is a placeholder for a future journal entry.",
+      "photos": []
+    },
+    {
+      "id": "saratoga",
+      "date": "Date coming soon",
+      "location": "Saratoga, Wyoming",
+      "coordinates": { "lat": 41.4547, "lng": -106.8053 },
+      "journal": "This is a placeholder for a future journal entry.",
+      "photos": []
+    },
+    {
+      "id": "grand-teton",
+      "date": "Date coming soon",
+      "location": "Grand Teton National Park, Wyoming",
+      "coordinates": { "lat": 43.7904, "lng": -110.6818 },
+      "journal": "This is a placeholder for a future journal entry.",
+      "photos": []
+    },
+    {
+      "id": "jackson-hole",
+      "date": "Date coming soon",
+      "location": "Jackson Hole, Wyoming",
+      "coordinates": { "lat": 43.4799, "lng": -110.7624 },
+      "journal": "This is a placeholder for a future journal entry.",
+      "photos": []
+    },
+    {
+      "id": "yellowstone",
+      "date": "Date coming soon",
+      "location": "Yellowstone National Park, Wyoming",
+      "coordinates": { "lat": 44.428, "lng": -110.5885 },
+      "journal": "This is a placeholder for a future journal entry.",
+      "photos": []
+    },
+    {
+      "id": "bozeman",
+      "date": "Date coming soon",
+      "location": "Bozeman, Montana",
+      "coordinates": { "lat": 45.677, "lng": -111.0429 },
+      "journal": "This is a placeholder for a future journal entry.",
+      "photos": []
+    },
+    {
+      "id": "dupuyer",
+      "date": "Date coming soon",
+      "location": "Dupuyer, Montana",
+      "coordinates": { "lat": 48.1675, "lng": -112.3114 },
+      "journal": "This is a placeholder for a future journal entry.",
+      "photos": []
+    },
+    {
+      "id": "glacier-national-park",
+      "date": "Date coming soon",
+      "location": "Glacier National Park, Montana",
+      "coordinates": { "lat": 48.7596, "lng": -113.787 },
+      "journal": "This is a placeholder for a future journal entry.",
+      "photos": []
+    },
+    {
+      "id": "sandpoint",
+      "date": "Date coming soon",
+      "location": "Sandpoint, Idaho",
+      "coordinates": { "lat": 48.2766, "lng": -116.5535 },
+      "journal": "This is a placeholder for a future journal entry.",
+      "photos": []
+    },
+    {
+      "id": "spokane",
+      "date": "Date coming soon",
+      "location": "Spokane, Washington",
+      "coordinates": { "lat": 47.6588, "lng": -117.426 },
+      "journal": "This is a placeholder for a future journal entry.",
+      "photos": []
+    },
+    {
+      "id": "seattle",
+      "date": "Date coming soon",
+      "location": "Seattle, Washington",
+      "coordinates": { "lat": 47.6062, "lng": -122.3321 },
+      "journal": "This is a placeholder for a future journal entry.",
+      "photos": []
+    },
+    {
+      "id": "forks",
+      "date": "Date coming soon",
+      "location": "Forks, Washington",
+      "coordinates": { "lat": 47.9504, "lng": -124.3855 },
+      "journal": "This is a placeholder for a future journal entry.",
+      "photos": []
+    }
+  ]
+}
